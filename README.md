@@ -1,2 +1,4 @@
-# cheesy-program
- A simple program that calculates profit from cheese production
+# Description
+A simple program that prompts the user to enter the total amount of cheese produced and then calculates the number of containers required to hold the cheese, the cost of the cheese, and the total profit.
+
+![](images/demo.png)
